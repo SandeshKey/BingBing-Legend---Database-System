@@ -243,4 +243,4 @@ Additional_result | Player description with their profiles.
 
 <br>
 
-### For Database File, and Keynote/PowerPoint Presentation, Visit **[My Portfolio Website](https://sandeshsubedi7.com.np/)**
+### For Database File, and Keynote/PowerPoint Presentation, Visit **[Sandesh Subedi](https://sandeshsubedi7.com.np/)**
